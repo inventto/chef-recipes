@@ -1,6 +1,6 @@
 {
 
-  "run_list": ["recipe[main]"],
+  "run_list": ["recipe[main]" , "role[our_rails_app]"] ,
   "user" : { 
     "name": "inventtor",
     "password": "$1$o.z8XzLO$z8iuK1ahdW/LXcO1SaCMy/",

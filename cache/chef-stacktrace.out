@@ -1,5 +1,5 @@
-Generated at 2014-05-01 10:31:41 -0400
-Chef::Exceptions::RecipeNotFound: could not find recipe default for cookbook main
+Generated at 2014-05-01 17:01:42 -0400
+Chef::Exceptions::RecipeNotFound: could not find recipe default for cookbook mysql
 /usr/local/rvm/gems/ruby-2.1.0/gems/chef-11.12.4/lib/chef/cookbook_version.rb:226:in `load_recipe'
 /usr/local/rvm/gems/ruby-2.1.0/gems/chef-11.12.4/lib/chef/run_context.rb:165:in `load_recipe'
 /usr/local/rvm/gems/ruby-2.1.0/gems/chef-11.12.4/lib/chef/run_context/cookbook_compiler.rb:140:in `block in compile_recipes'
