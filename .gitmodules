@@ -1,3 +1,9 @@
 [submodule "cookbooks/mysql"]
 	path = cookbooks/mysql
 	url = https://github.com/opscode-cookbooks/mysql
+[submodule "cookbooks/nginx"]
+	path = cookbooks/nginx
+	url = https://github.com/opscode-cookbooks/nginx
+[submodule "cookbooks/imagemagick"]
+	path = cookbooks/imagemagick
+	url = git@github.com:someara/imagemagick.git
