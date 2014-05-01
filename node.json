@@ -1,0 +1,9 @@
+{
+
+  "run_list": ["recipe[main]"],
+  "user" : { 
+    "name": "inventtor",
+    "password": "$1$o.z8XzLO$z8iuK1ahdW/LXcO1SaCMy/",
+    "ls_color": true
+  }
+}
